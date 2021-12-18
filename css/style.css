@@ -1,0 +1,101 @@
+body {
+    background-color: #042B27;
+    background-image: linear-gradient(rgba(97,155,138,0), rgba(97,155,138,0.5));
+}
+
+/* logo and nav bar */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    color: #F0EADB;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    padding: 20px;    
+
+}
+
+.logo {
+    width: 40%;
+    height: auto;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    width: 50%;
+    padding: 0%;
+}
+
+.navOptions {
+    width: 70%;
+    float: right;
+    text-align: right;
+    color: #F0EADB;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+}
+
+/* homework 18 about me */
+
+h1 {
+    color: #F0EADB;
+    font-family: "Vidaloka", serif;
+    font-size: 64px;
+    text-align: center;
+}
+
+.aboutMe {
+    width: 100%;
+    height: 600px;
+    color: #F0EADB;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    padding-top: 50px;
+}
+
+.myBioTitle {
+    text-align: left;
+    padding-left: 450px;
+}
+
+.myBio {
+    width: 55%;
+    display: inline-block;
+    padding-left: 45px;
+}
+
+.dogPics {
+    width: 25%;
+    display:inline-block;
+    padding-left: 200px;
+}
+
+/* homework 18 my skills */
+
+.mySkills {
+    width: 100%;
+    height: 600px;
+    color: #F0EADB;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    padding-top: 50px;
+}
+
+.mySkillsTitle {
+    text-align: right;
+    padding-right: 500px;
+}
+
+.skillsOutline {
+    width: 100%;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: inline-block;
+
+}
+
+.oneSkillColumn {
+    width: 30%;
+    display: inline-block;
+}
