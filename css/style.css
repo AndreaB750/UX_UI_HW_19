@@ -15,6 +15,10 @@ body {
 
 }
 
+.button {
+    color: #555555;
+}
+
 .logo {
     width: 40%;
     height: auto;
